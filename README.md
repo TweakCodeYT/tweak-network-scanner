@@ -1,7 +1,12 @@
 # Tweak Network Scanner
 
-A Python GUI cybersecurity tool for scanning and mapping local network devices.
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Platform](https://img.shields.io/badge/Platform-Windows-darkgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Version](https://img.shields.io/badge/Version-v1.0.0-orange)
+![Status](https://img.shields.io/badge/Status-Active-success)
 
+A Python GUI cybersecurity tool for scanning and mapping local network devices.
 ---
 
 ## Screenshot
